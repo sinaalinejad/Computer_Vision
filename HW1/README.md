@@ -1,3 +1,6 @@
+## Implementing Histogram Stretching (Q3.ipynb)
+In this question, we use the simplest way of contrast enhancement method which is Histogram Stretching
+
 ## Implementing Histogram Matching (Q4.ipynb)
 In this method, we want to change the histogram of an image so that it matches a specified histogram.  
 I used numpy library to implement histogram matching.  
