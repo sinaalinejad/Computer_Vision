@@ -1,8 +1,8 @@
 ## Mask Overlay (Q3.ipynb)
-The task is to put the mask on Einstein's face.
+The task is to put the mask on Einstein's face.  
 Two steps:
 - Finding face landmarks or key points using dlib library.
-- Use special face key points and perspective transformation to put the mask on the face.
+- Use special face key points and perspective transformation, and put the mask on the face using bitwise_or function of OpenCV.
 
 
 ## CamScanner program (Q4.ipynb)
